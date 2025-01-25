@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'NanumGgeuTeuMeoRiCe';
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+  src: url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumGgeuTeuMeoRiCe/NanumGgeuTeuMeoRiCe.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumGgeuTeuMeoRiCe/NanumGgeuTeuMeoRiCe.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumGgeuTeuMeoRiCe/NanumGgeuTeuMeoRiCe.ttf') format('truetype');
+}
